@@ -1,0 +1,15 @@
+export { default as SelectDemo } from "./SelectDemo";
+export { default as SwitchDemo } from "./SwitchDemo";
+export { default as AvatarDemo } from "./AvatarDemo";
+export { default as BadgeDemo } from "./BadgeDemo";
+export { default as CalendarDemo } from "./CalendarDemo";
+export { default as CardDemo } from "./CardDemo";
+export { default as CollapseDemo } from "./CollapseDemo";
+export { default as ImageDemo } from "./ImageDemo";
+export { default as PopoverDemo } from "./PopoverDemo";
+export { default as TooltipDemo } from "./TooltipDemo";
+export { default as AlertDemo } from "./AlertDemo";
+export { default as TabsDemo } from "./TabsDemo";
+export { default as TourDemo } from "./TourDemo";
+export { default as MessageDemo } from "./MessageDemo";
+export { default as ResultDemo } from "./ResultDemo";
